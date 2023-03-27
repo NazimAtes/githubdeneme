@@ -22,4 +22,4 @@ clone etmek = projeyi indirmek.
 push = projeyi online atmak demek
 commit ise degisiklikleri belirtmek ve online ile paylasilacagini belirtmek. 
 
-ek olarak:
+ek olarak: bu da diger dosyadan yani nbelgelerim degil de ana sayfadan duzeltildi
