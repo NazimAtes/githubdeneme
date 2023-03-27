@@ -1,0 +1,23 @@
+githuba atilacak
+
+burada bir degisiklik daha yaptik.
+
+2. adim
+	madem degisikleri yaptim oyleyse stratejimi de buraya yazayim.
+
+Strateji
+
+
+Github kullaniminda oncelikle online da bir proje acip
+
+ındırıp klasore kendi dosyalarimi atip tekrar githuba atabilirim.
+
+peki bunu baska bir metodla indirmesk istrsem 
+ne yapabilirim
+
+|
+git clone https://github.com/NazimAtes/githubdeneme.git
+
+clone etmek = projeyi indirmek. 
+push = projeyi online atmak demek
+commit ise degisiklikleri belirtmek ve online ile paylasilacagini belirtmek. 
